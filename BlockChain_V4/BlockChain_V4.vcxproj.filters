@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="osapi">
+      <UniqueIdentifier>{8e795eb4-e38a-4d4e-a0ab-1f879bd7bcc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsoncpp">
+      <UniqueIdentifier>{be0115a8-2c40-4504-81a2-396f5ad2e0a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools">
+      <UniqueIdentifier>{aa43dd87-b296-4402-8534-da4768b2a9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="node">
+      <UniqueIdentifier>{a758c41e-8cbb-4bd9-b34c-3a8139461fb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="db_operate">
+      <UniqueIdentifier>{5b682913-bae9-44cb-8910-a843c423aa37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="encrypt">
+      <UniqueIdentifier>{a391ab58-b706-4312-80d4-1dd922efba04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="casehandle">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="blockchain">
+      <UniqueIdentifier>{1d4d6559-a0c3-458d-aa08-597b5c8edbf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Consensus">
+      <UniqueIdentifier>{f8085870-39da-43fe-a09f-64129c34918a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MerkleTree">
+      <UniqueIdentifier>{e0474376-1966-458d-a055-b9044005f52e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="quorum">
+      <UniqueIdentifier>{d28f0a16-09e9-4bde-b2c0-9969147db572}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="osapi\Mutex.h">
+      <Filter>osapi</Filter>
+    </ClInclude>
+    <ClInclude Include="osapi\osapi.h">
+      <Filter>osapi</Filter>
+    </ClInclude>
+    <ClInclude Include="osapi\Semaphore.h">
+      <Filter>osapi</Filter>
+    </ClInclude>
+    <ClInclude Include="osapi\Socket.h">
+      <Filter>osapi</Filter>
+    </ClInclude>
+    <ClInclude Include="osapi\Thread.h">
+      <Filter>osapi</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\allocator.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\assertions.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\autolink.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\config.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\features.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\forwards.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\json.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\json_tool.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\reader.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\stdint.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\value.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\version.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="jsoncpp\writer.h">
+      <Filter>jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="DB_operate.h">
+      <Filter>db_operate</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>node</Filter>
+    </ClInclude>
+    <ClInclude Include="NetListening.h">
+      <Filter>node</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeAnalyse.h">
+      <Filter>node</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeHeartGet.h">
+      <Filter>node</Filter>
+    </ClInclude>
+    <ClInclude Include="RSASIG.h">
+      <Filter>encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseRecv.h">
+      <Filter>casehandle</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseAnalysis.h">
+      <Filter>casehandle</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseBroadCast.h">
+      <Filter>casehandle</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockRecv.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockchainCheck.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockchainGet.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="sha256.h">
+      <Filter>encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockchainSyn.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="Blockchain.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockPack.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+    <ClInclude Include="Broadcast_thread.h">
+      <Filter>Consensus</Filter>
+    </ClInclude>
+    <ClInclude Include="Consensus.h">
+      <Filter>Consensus</Filter>
+    </ClInclude>
+    <ClInclude Include="Recv_thread.h">
+      <Filter>Consensus</Filter>
+    </ClInclude>
+    <ClInclude Include="Respond_MerkleTree.h">
+      <Filter>Consensus</Filter>
+    </ClInclude>
+    <ClInclude Include="Sync_time.h">
+      <Filter>Consensus</Filter>
+    </ClInclude>
+    <ClInclude Include="MerkleTree\binarytree.h">
+      <Filter>MerkleTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MerkleTree\merkletree.h">
+      <Filter>MerkleTree</Filter>
+    </ClInclude>
+    <ClInclude Include="md5.h">
+      <Filter>encrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="quorum.h">
+      <Filter>quorum</Filter>
+    </ClInclude>
+    <ClInclude Include="QuorumServer.h">
+      <Filter>quorum</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockWriteDB.h">
+      <Filter>blockchain</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="osapi\Mutex_Linux.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Mutex_Win32.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Semaphore_Linux.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Semaphore_Win32.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Socket.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Thread_Linux.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="osapi\Thread_Win32.cpp">
+      <Filter>osapi</Filter>
+    </ClCompile>
+    <ClCompile Include="jsoncpp\json_reader.cpp">
+      <Filter>jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="jsoncpp\json_value.cpp">
+      <Filter>jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="jsoncpp\json_writer.cpp">
+      <Filter>jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DB_operate.cpp">
+      <Filter>db_operate</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>node</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="NetListening.cpp">
+      <Filter>node</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeAnalyse.cpp">
+      <Filter>node</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeHeartGet.cpp">
+      <Filter>node</Filter>
+    </ClCompile>
+    <ClCompile Include="RSASIG.cpp">
+      <Filter>encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseRecv.cpp">
+      <Filter>casehandle</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseAnalysis.cpp">
+      <Filter>casehandle</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseBroadCast.cpp">
+      <Filter>casehandle</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockRecv.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockchainGet.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockchainCheck.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+    <ClCompile Include="sha256.cpp">
+      <Filter>encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockchainSyn.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockPack.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+    <ClCompile Include="Broadcast_thread.cpp">
+      <Filter>Consensus</Filter>
+    </ClCompile>
+    <ClCompile Include="Consensus.cpp">
+      <Filter>Consensus</Filter>
+    </ClCompile>
+    <ClCompile Include="Recv_thread.cpp">
+      <Filter>Consensus</Filter>
+    </ClCompile>
+    <ClCompile Include="Respond_MerkleTree.cpp">
+      <Filter>Consensus</Filter>
+    </ClCompile>
+    <ClCompile Include="Sync_time.cpp">
+      <Filter>Consensus</Filter>
+    </ClCompile>
+    <ClCompile Include="md5.cpp">
+      <Filter>encrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="quorum.cpp">
+      <Filter>quorum</Filter>
+    </ClCompile>
+    <ClCompile Include="QuorumServer.cpp">
+      <Filter>quorum</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockWriteDB.cpp">
+      <Filter>blockchain</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="osapi\Version.txt">
+      <Filter>osapi</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="jsoncpp\json_valueiterator.inl">
+      <Filter>jsoncpp</Filter>
+    </None>
+    <None Include="jsoncpp\sconscript">
+      <Filter>jsoncpp</Filter>
+    </None>
+    <None Include="jsoncpp\version.h.in">
+      <Filter>jsoncpp</Filter>
+    </None>
+    <None Include="MerkleTree\LICENSE">
+      <Filter>MerkleTree</Filter>
+    </None>
+    <None Include="MerkleTree\README.md">
+      <Filter>MerkleTree</Filter>
+    </None>
+  </ItemGroup>
+</Project>

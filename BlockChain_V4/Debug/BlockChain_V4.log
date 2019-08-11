@@ -1,0 +1,262 @@
+﻿  BlockchainCheck.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchaincheck.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): note: 参见“DB_PASSWORD”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchaincheck.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchaincheck.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+  BlockchainGet.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchainget.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): note: 参见“DB_PASSWORD”的前一个定义
+  BlockchainSyn.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchainsyn.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): note: 参见“DB_PASSWORD”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchainsyn.cpp(5): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchainsyn.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockchainsyn.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+  BlockPack.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockpack.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): note: 参见“DB_PASSWORD”的前一个定义
+  BlockRecv.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockrecv.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockrecv.cpp(5): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+  BlockWriteDB.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockwritedb.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\blockwritedb.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  Broadcast_thread.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\broadcast_thread.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\broadcast_thread.cpp(44): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\broadcast_thread.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+  CaseAnalysis.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\caseanalysis.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\caseanalysis.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\caseanalysis.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+  CaseBroadCast.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\casebroadcast.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\casebroadcast.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  CaseRecv.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\caserecv.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\caserecv.cpp(5): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+  Consensus.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(85): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(142): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): note: 参见“DB_PASSWORD”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(138): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(494): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\consensus.cpp(543): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(82): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(74): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(83): note: 参见对正在编译的函数 模板 实例化“int guardRange<T>(const std::vector<char *,std::allocator<_Ty>> &,int,int)”的引用
+          with
+          [
+              T=char *,
+              _Ty=char *
+          ]
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+  DB_operate.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.cpp(248): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.cpp(446): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+  Global.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  main.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\main.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.h(22): warning C4005: “DB_PASSWORD”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\global.h(24): note: 参见“DB_PASSWORD”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(85): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(142): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(82): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(74): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(83): note: 参见对正在编译的函数 模板 实例化“int guardRange<T>(const std::vector<char *,std::allocator<_Ty>> &,int,int)”的引用
+          with
+          [
+              T=char *,
+              _Ty=char *
+          ]
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+  md5.cpp
+  NetListening.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\netlistening.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\netlistening.cpp(5): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+  Node.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\node.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码...
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\db_operate.cpp(352): warning C4715: “WriteBlock”: 不是所有的控件路径都返回值
+  正在编译...
+  NodeAnalyse.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\nodeanalyse.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  NodeHeartGet.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\nodeheartget.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Mutex_Linux.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\mutex.h(4): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\mutex_linux.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Mutex_Win32.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\mutex.h(4): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\mutex_win32.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Semaphore_Linux.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\semaphore.h(4): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\semaphore_linux.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Semaphore_Win32.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\semaphore.h(4): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\semaphore_win32.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Socket.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Thread_Linux.cpp
+  Thread_Win32.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\thread.h(4): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\thread_win32.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  quorum.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(106): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(111): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(118): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(139): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(144): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(151): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorum.cpp(300): warning C4018: “>”: 有符号/无符号不匹配
+  QuorumServer.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorumserver.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\quorumserver.cpp(8): warning C4242: “参数”: 从“int”转换到“unsigned short”，可能丢失数据
+  Recv_thread.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(102): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\recv_thread.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+  Respond_MerkleTree.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\respond_merkletree.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(85): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(142): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(82): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(74): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\binarytree.h(83): note: 参见对正在编译的函数 模板 实例化“int guardRange<T>(const std::vector<char *,std::allocator<_Ty>> &,int,int)”的引用
+          with
+          [
+              T=char *,
+              _Ty=char *
+          ]
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\merkletree\merkletree.h(174): note: 参见对正在编译的函数 模板 实例化“int getParent<char*>(const std::vector<char *,std::allocator<_Ty>> &,int)”的引用
+          with
+          [
+              _Ty=char *
+          ]
+  RSASIG.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\rsasig.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  sha256.cpp
+  Sync_time.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\osapi.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\sync_time.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\sync_time.cpp(15): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\sync_time.cpp(60): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  Tools.cpp
+c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\osapi\socket.h(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\msi-\desktop\大创\blockchain_v4_ 节点\blockchain_v4\tools.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码...
+cryptlib.lib(cryptlib.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(cryptlib.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(cpu.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(cpu.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(integer.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(integer.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(algparam.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(algparam.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(asn.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(asn.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(basecode.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(basecode.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(dll.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(dll.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(ec2n.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(ec2n.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(ecp.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(ecp.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(filters.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(filters.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(fips140.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(fips140.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(gf2n.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(gf2n.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(gfpcrypt.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(gfpcrypt.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(hex.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(hex.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(hrtimer.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(hrtimer.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(iterhash.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(iterhash.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(misc.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(misc.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(modes.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(modes.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(mqueue.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(mqueue.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(nbtheory.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(nbtheory.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(oaep.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(oaep.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(osrng.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(osrng.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(pch.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(pch.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(pkcspad.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(pkcspad.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(pssr.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(pssr.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(pubkey.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(pubkey.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(queue.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(queue.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(randpool.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(randpool.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(rdtables.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(rdtables.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(rijndael.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(rijndael.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(rng.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(rng.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(rsa.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(rsa.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(sha.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(sha.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cryptlib.lib(whrlpool.obj) : warning LNK4099: 未找到 PDB“cryptlib.pdb”(使用“cryptlib.lib(whrlpool.obj)”或在“C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\cryptlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  BlockChain_V4.vcxproj -> C:\Users\msi-\Desktop\大创\BlockChain_V4_ 节点\Debug\BlockChain_V4.exe

@@ -1,0 +1,254 @@
+[
+{
+	"doc_id" : "1",
+	"hash" : "f33ae3bc9a22cd7564990a794789954409977013966fb1a8f43c35776b833a95",
+	"hospital" : "anhuihospital",
+	"pat_id" : "444444",
+	"sig" : false,
+	"text" : "12345\n",
+	"time" : "2019-5-27 0:12:45"
+},
+{
+	"doc_id" : "1",
+	"hash" : "83ccd60f6c3cb4763e1d4eb1458060764d5aec61e6b1b72f467a0cc276a1d1d4",
+	"hospital" : "anhuihospital",
+	"pat_id" : "333333",
+	"sig" : false,
+	"text" : "挖坟杀个发发顺丰\n",
+	"time" : "2019-5-27 0:12:45"
+},
+{
+	"doc_id" : "1",
+	"hash" : "c04585d7a5f333b89bd67ff2a45fec1f29b40b5e95297e211214090c6f1fa15a",
+	"hospital" : "anhuihospital",
+	"pat_id" : "222222",
+	"sig" : false,
+	"text" : "发v反对大苏打\n",
+	"time" : "2019-5-27 0:12:46"
+},
+{
+	"doc_id" : "1",
+	"hash" : "fa7788d8b7f382d47b5a25ca996889b92ddcab37c54b55ffad9acbfccc00d636",
+	"hospital" : "anhuihospital",
+	"pat_id" : "54321",
+	"sig" : false,
+	"text" : "郭德纲还是个人风暴过后瑞特方法v\n",
+	"time" : "2019-5-27 0:12:46"
+},
+{
+	"doc_id" : "1",
+	"hash" : "b544b26caed44994c4be842908d709cf83081e80bb9dc16a0d119a79f72789bd",
+	"hospital" : "anhuihospital",
+	"pat_id" : "999999",
+	"sig" : false,
+	"text" : "的温暖部分CD v最根本的我撒现场v向被告人\n",
+	"time" : "2019-5-27 0:12:47"
+},
+{
+	"doc_id" : "1",
+	"hash" : "0f9aae74070c5b63dc3a0c5a66b3b8ada2581911882bf6370b46b743e8c7960c",
+	"hospital" : "anhuihospital",
+	"pat_id" : "12345",
+	"sig" : false,
+	"text" : "郭德纲你还没和哥哥成年后从个人发表\n",
+	"time" : "2019-5-27 0:12:47"
+},
+{
+	"doc_id" : "1",
+	"hash" : "e13e952338f74b191584ab0fb00b07ac4798efd26a3ee9af52af05331bf99120",
+	"hospital" : "anhuihospital",
+	"pat_id" : "666666",
+	"sig" : false,
+	"text" : "使得部分放大器的被窝的v\n",
+	"time" : "2019-5-27 0:12:48"
+},
+{
+	"doc_id" : "1",
+	"hash" : "af67e3d64569fa84c26632ce9d796c6ec3c5fb40f67ef3d7430eeddfae12d92a",
+	"hospital" : "anhuihospital",
+	"pat_id" : "444444",
+	"sig" : false,
+	"text" : "受到广泛般若服务端的v发被分为东中西被\n",
+	"time" : "2019-5-27 0:13:23"
+},
+{
+	"doc_id" : "1",
+	"hash" : "12765c54beaa9ca55b090303150eeb896741ca409e41e7e1acc657381e87cc5d",
+	"hospital" : "anhuihospital",
+	"pat_id" : "333333",
+	"sig" : false,
+	"text" : "现场v地方v才能后面那个哥哥\n",
+	"time" : "2019-5-27 0:13:23"
+},
+{
+	"doc_id" : "1",
+	"hash" : "0fadb04f90d9390cfb6e5e88962ea0a4828c66742f407ae2f70452c492b86337",
+	"hospital" : "anhuihospital",
+	"pat_id" : "222222",
+	"sig" : false,
+	"text" : "那个的华人歌手人文氛围v\n",
+	"time" : "2019-5-27 0:13:24"
+},
+{
+	"doc_id" : "1",
+	"hash" : "0a9cff72fa31b51566167431339ae610417fce24fdf5c78a0a3f4626dadef07b",
+	"hospital" : "anhuihospital",
+	"pat_id" : "54321",
+	"sig" : false,
+	"text" : "士大夫的那个被反复v发布感谢忽然感到v\n",
+	"time" : "2019-5-27 0:13:24"
+},
+{
+	"doc_id" : "1",
+	"hash" : "a881ed1fffd90f4cd0e0c654e7984d3220b39540cc38d4378fb0d125f2f585ab",
+	"hospital" : "anhuihospital",
+	"pat_id" : "999999",
+	"sig" : false,
+	"text" : "规划和迷迷糊糊个人分析报告哥啊工人\n",
+	"time" : "2019-5-27 0:13:25"
+},
+{
+	"doc_id" : "1",
+	"hash" : "7e81fb4d607db8622c65ba3381dd2ae318a5aecef62bc82bb68d909b748b1413",
+	"hospital" : "anhuihospital",
+	"pat_id" : "12345",
+	"sig" : false,
+	"text" : "广东边防v表格发v发表过\n",
+	"time" : "2019-5-27 0:13:25"
+},
+{
+	"doc_id" : "1",
+	"hash" : "754410fc7f33551e34a3a01f8e0bee9269f6f578f14d2154a15d2c67e5b90bc3",
+	"hospital" : "anhuihospital",
+	"pat_id" : "666666",
+	"sig" : false,
+	"text" : "的v暴风王朝的不过v发vv俄方v的v额v的\n",
+	"time" : "2019-5-27 0:13:26"
+},
+{
+	"doc_id" : "1",
+	"hash" : "eba65cbecec84b6d2b86719bbe697aa1f71cd1dfe718f97182b371e381529b9c",
+	"hospital" : "anhuihospital",
+	"pat_id" : "444444",
+	"sig" : false,
+	"text" : "是vv打算DVD所谓的\n",
+	"time" : "2019-5-27 0:14:7"
+},
+{
+	"doc_id" : "1",
+	"hash" : "68cac40cc441cef3f859f6b84281b38e0b903b2f58bba4840b86fa0d62bd0628",
+	"hospital" : "anhuihospital",
+	"pat_id" : "333333",
+	"sig" : false,
+	"text" : "wvFCawvrvcc AFa fCC\n",
+	"time" : "2019-5-27 0:14:8"
+},
+{
+	"doc_id" : "1",
+	"hash" : "f4e6c9775fbda1c5ffb71a9f4972de6dbbe8ab70ecb01e2afd7584d22d8bcc59",
+	"hospital" : "anhuihospital",
+	"pat_id" : "222222",
+	"sig" : false,
+	"text" : "啊VS观察分析的支持下炽热是擦的喜爱\n",
+	"time" : "2019-5-27 0:14:8"
+},
+{
+	"doc_id" : "1",
+	"hash" : "3f325e20acefcb96d13f9e26a6f1a3e849f7bbc680e9ca2738fc0bd9a1245677",
+	"hospital" : "anhuihospital",
+	"pat_id" : "54321",
+	"sig" : false,
+	"text" : "SVDZVSDCASfZHDRGEFSDFGNFHTFbfhdfb十多年不过v真的是\n",
+	"time" : "2019-5-27 0:14:9"
+},
+{
+	"doc_id" : "1",
+	"hash" : "83dbc6daece3f1e0123426800d1019a1a1642457680b71694ce222dbe0813909",
+	"hospital" : "anhuihospital",
+	"pat_id" : "999999",
+	"sig" : false,
+	"text" : "大后方换个房v垫付部分感到非常v不幸福\n",
+	"time" : "2019-5-27 0:14:9"
+},
+{
+	"doc_id" : "1",
+	"hash" : "d3b22fda2e8ca65b403203a46398b0ecf116641360fe91168bc568378a329502",
+	"hospital" : "anhuihospital",
+	"pat_id" : "12345",
+	"sig" : false,
+	"text" : "都不能够感受到本次年会打个比方比分定格\n",
+	"time" : "2019-5-27 0:14:10"
+},
+{
+	"doc_id" : "1",
+	"hash" : "dd6dfc385e2ea6244a30642b795fd28ed76b088dd2e64f01c943b9ad02d00390",
+	"hospital" : "anhuihospital",
+	"pat_id" : "666666",
+	"sig" : false,
+	"text" : "v的装备发行八个纷纷不过你如果v发表\n",
+	"time" : "2019-5-27 0:14:10"
+},
+{
+	"doc_id" : "1",
+	"hash" : "2d6d93acb8791091df8c43d6398c11e1d2fb8973aa7ba34fc6a6ef217c38680e",
+	"hospital" : "anhuihospital",
+	"pat_id" : "444444",
+	"sig" : false,
+	"text" : "1111111\n",
+	"time" : "2019-5-27 0:14:53"
+},
+{
+	"doc_id" : "1",
+	"hash" : "0b7063eff3bdcea3dd1069078b499227e8ab56d99160c1bce5a23a22332e1c6b",
+	"hospital" : "anhuihospital",
+	"pat_id" : "333333",
+	"sig" : false,
+	"text" : "宝宝v存在v不合格分数v吧 \n",
+	"time" : "2019-5-27 0:14:54"
+},
+{
+	"doc_id" : "1",
+	"hash" : "eeda2f21a9320e751d98a92ceb903bdf5e9e5b6f6ca3690fdc0fb67b70a5efb2",
+	"hospital" : "anhuihospital",
+	"pat_id" : "222222",
+	"sig" : false,
+	"text" : "2222222\n",
+	"time" : "2019-5-27 0:14:54"
+},
+{
+	"doc_id" : "1",
+	"hash" : "47b391ab6b857223951bf1ba422d6e5d094659b2a5f4f678490e54d3e642e617",
+	"hospital" : "anhuihospital",
+	"pat_id" : "54321",
+	"sig" : false,
+	"text" : "你干嘛南海各方v发布分隔符\n",
+	"time" : "2019-5-27 0:14:55"
+},
+{
+	"doc_id" : "1",
+	"hash" : "1bbb337a707d059be503510600b59292bbc9b1a171fe2b0b07ec122bc2bbff4f",
+	"hospital" : "anhuihospital",
+	"pat_id" : "999999",
+	"sig" : false,
+	"text" : "3333333\n",
+	"time" : "2019-5-27 0:14:56"
+},
+{
+	"doc_id" : "1",
+	"hash" : "eeff561f8af6462bd0d6853c0bde754e8d943339f423031f81d234fd737d2b87",
+	"hospital" : "anhuihospital",
+	"pat_id" : "12345",
+	"sig" : false,
+	"text" : "4444441\n",
+	"time" : "2019-5-27 0:14:56"
+},
+{
+	"doc_id" : "1",
+	"hash" : "14cc33548f346b0e2e121a4e5b161cfcadb3840f8678565f342eb890f0cc5a3a",
+	"hospital" : "anhuihospital",
+	"pat_id" : "666666",
+	"sig" : false,
+	"text" : "55555555555555555555551\n",
+	"time" : "2019-5-27 0:14:57"
+}
+]
